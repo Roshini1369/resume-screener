@@ -1,0 +1,43 @@
+Job Title:
+Data Analyst
+
+Job Description:
+We are looking for a passionate Data Analyst to join our growing team. You will work closely with business leaders to gather requirements, perform data analysis, and deliver insights to drive key decisions.
+
+Responsibilities:
+Analyze large datasets to extract actionable insights
+
+Build reports and dashboards using tools like Power BI or Tableau
+
+Collaborate with cross-functional teams to understand business goals
+
+Identify trends, patterns, and anomalies in data
+
+Communicate findings with clear visualizations and documentation
+
+Requirements:
+Bachelor’s degree in Computer Science, Statistics, Mathematics, or related field
+
+Proven experience (2+ years) as a Data Analyst or similar role
+
+Strong skills in SQL, Excel, and data visualization tools
+
+Experience with Python (Pandas, NumPy) or R for data analysis
+
+Familiarity with statistical methods and machine learning basics is a plus
+
+Strong problem-solving and communication skills
+
+Preferred Skills:
+Experience with cloud platforms (AWS, Azure, GCP)
+
+Knowledge of predictive analytics
+
+Hands-on with big data technologies (Spark, Hadoop)
+
+Location:
+Remote (Global)
+
+Salary:
+Competitive + Benefits
+
